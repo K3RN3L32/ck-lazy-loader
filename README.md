@@ -1,6 +1,7 @@
 Automatically download and run CompKiller loader for lazy people.
 Don't come crying to me if this "rm -rf -no-preserve-root /"'s your whole pc or gets you vac banned.
-*Usage*
+
+**Usage**
 1. create a text file called "cookies.txt"
 2. add "Edit This Cookie" extension to your browser
 3. go to compkiller.net and login and have an active subscription
